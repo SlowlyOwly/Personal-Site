@@ -1,0 +1,169 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #F9F3D1;
+
+    }
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 140px;
+    color: #e39f05;
+    }
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #785505;
+    font-size: 40px;
+
+    }
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #785505;
+    }
+p {
+    color: #362500;
+    }
+
+a {
+    color: #785505;
+    }
+
+hr {
+    margin: 60px auto 60px auto;
+    background-color: #F9F3D1;
+    border-color: #fcba03;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 80px;
+    }
+
+.top-container {
+    background-color: #F9F3D1;
+    position: relative;
+    padding-top: 100px;
+    }
+
+.middle-container {
+    background-color: #F9F3D1;
+    }
+
+.bottom-container {
+    background-color: #F9F3D1;
+    }
+
+.geometry {
+    position: relative;
+    }
+
+.top-h2 {
+    font-weight: normal;
+    }
+
+.career-table {
+    width: 80%;
+    margin: 50px auto 50px auto;
+    color: #362500;
+    font-size: 20px;
+    }
+
+.date-table {
+    height: 10px;
+    width: 14%;
+    vertical-align: top;
+    border-collapse: collapse;
+    border: solid 1px;
+    }
+
+.company-table {
+    width: 14%;
+    vertical-align: top;
+    border-collapse: collapse;
+    border: solid 1px;
+    }
+
+.position-table {
+    width: 25%;
+    vertical-align: top;
+    border-collapse: collapse;
+    border: solid 1px;
+    }
+
+.description-table {
+    vertical-align: top;
+    border-collapse: collapse;
+    border: solid 1px;
+    }
+
+.p-table {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    }
+
+.education-table {
+    width: 80%;
+    margin: 50px auto 50px auto;
+    color: #362500;
+    font-size: 20px;
+    }
+
+.university-table {
+    width: 14%;
+    vertical-align: top;
+    border-collapse: collapse;
+    border: solid 1px;
+    }
+
+.certificates-table {
+    width: 80%;
+    margin: 50px auto 50px auto;
+    color: #362500;
+    font-size: 20px;
+    }
+
+.released-table {
+    width: 14%;
+    vertical-align: top;
+    border-collapse: collapse;
+    border: solid 1px;
+    }
+
+.certificate-table {
+    width: 14%;
+    vertical-align: top;
+    border-collapse: collapse;
+    border: solid 1px;
+    }
+
+.projects {
+    width: 65%;
+    margin: 50px auto 50px auto;
+    color: #362500;
+    font-size: 20px;
+    }
+
+.link-table {
+    width: 500px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    }
+
+.p-img-table {
+    width: 738px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    }
+
+.buttons {
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    }
+
+.link-button {
+    margin-right: 10px;
+    margin-left: 10px;
+    }
